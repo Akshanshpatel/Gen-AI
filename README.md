@@ -1,0 +1,1 @@
+In ChatModel folder we manually code all steps(invoking for input,LLM handling, & output) but using CHAINS we can create a pipeline reducing the manual work we cal also create complex pilines eg-Parallel ones
